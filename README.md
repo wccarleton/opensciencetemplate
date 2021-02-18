@@ -1,8 +1,8 @@
-# Extreme Climatic Events and European Conflict over the 1st Millennium CE
+# Project
 ## Overview
-This repo contains the data and R code used for the study presented in the following paper:
+This repo contains the data and code used for the study presented in the following paper:
 
-[*PLACHOLDER*]()
+[*PAPER TITLE*]()
 
 ## Abstract
 
